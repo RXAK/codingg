@@ -1,0 +1,25 @@
+.a{
+ background-color:orange;
+ height: 100px;
+ width: 100px;
+ border-width: 20px;
+ padding: 30px;
+ margin-top: 20px;
+}
+.b{
+ background-color: green;
+ height: 100px;
+ width: 100px;
+ margin-left: 160px;
+ border-width:20px ;
+ padding: 30px;
+}
+.c{
+ background-color: yellow;
+ margin-left: 320px;
+ height: 100px;
+ width: 100px;
+ padding: 30px;
+ border-width: 20px;
+
+}
